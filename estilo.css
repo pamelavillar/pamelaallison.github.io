@@ -29,7 +29,7 @@ body{
 
 .hero{
     height: 100vh;
-    background-image: var(--background), url('../img/nebulosa.jpg');
+    background-image: var(--background), url('nebulosa.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
